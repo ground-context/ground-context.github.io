@@ -1,0 +1,53 @@
+body {
+    font-family: "Avenir", sans-serif;
+    padding: 0; 
+    margin: 0;
+}
+
+div.title {
+    left: 50%;
+    position: absolute;
+
+    width: 1000px;
+    height: 40px;
+    margin: 40px 0 0 -500px;
+
+    text-align: center;
+}
+
+div.head {
+    height: 39px;
+    padding: 25px;
+    margin-bottom: 80px;
+    background: #e6e6e6;
+    color: #0d1c39;
+}
+
+div.head h1 {
+    display: inline;
+    font-size: 30px;
+    padding-right: 100px;
+}
+
+div.head a {
+    display: inline;
+    font-size: 20px;
+    padding-right: 20px;
+    color: #0d1c39;
+    text-decoration: none;
+}
+
+div.main {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+div.text {
+    font-size: 18px;
+    text-align: justify;
+}
+
+a {
+    color: #8ac7db;
+    text-decoration: none;
+}

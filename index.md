@@ -30,26 +30,8 @@ Networks](https://www.skyhighnetworks.com/),
 [LinkedIn](https://www.linkedin.com), [Cloudera](https://www.cloudera.com), and
 [Trifacta](http://www.trifacta.com).
 
-## Getting Started
+For more information on getting started with Ground and contribution guidelines, please see our [wiki](http://www.ground-context.org/wiki/).
 
-We currently do not have any releases for the project. To get started with the
-project, you can download and build from source:
+## News
 
-```bash
-$ git clone https://github.com/ground-context/ground
-$ cd ground
-$ mvn clean package -DskipTests
-# start the server; configuration options can be found in conf/config.yml
-$ java -jar target/ground-0.1-SNAPSHOT.jar server conf/config.yml
-```
-
-## Contributing
-
-The project is currently in a pre-alpha stage. We welcome any and all input,
-contributions, and feedback. The easiest way to get in touch is to [open an
-issue on Github](https://github.com/ground-context/ground/issues/new) or to
-submit a pull request. You can also email vikrams AT berkeley DOT edu.
-
-You can find a list of open issues on the [Ground
-JIRA](ground.atlassian.net/projects/GROUND/issues).
-
+* **5/23/2017**: Our v0.1 release is ready! You can find it [here](https://github.com/ground-context/ground/releases), and you can see our Getting Started guide [here](http://www.ground-context.org/wiki/).
